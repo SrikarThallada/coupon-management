@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: coupon-management-service
+
+app:
+  message: This is primary Application Property for coupon-management-service
